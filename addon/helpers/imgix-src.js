@@ -36,4 +36,4 @@ export function imgixSrc(helperParams, helperOptions) {
   return buildUrl(src, query);
 }
 
-export default Ember.HTMLBars.makeBoundHelper(imgixSrc);
+export default Ember.Helper.helper(imgixSrc);
