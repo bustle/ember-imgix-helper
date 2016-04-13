@@ -1,6 +1,6 @@
 {
   "name": "ember-imgix-helper",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Ember Handlebars helper to build urls for imgix image service",
   "directories": {
     "doc": "doc",
